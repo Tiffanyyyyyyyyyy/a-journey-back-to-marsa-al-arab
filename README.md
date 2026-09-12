@@ -11,7 +11,7 @@ This is a concept demo for a broader idea: **spatial memory journeys** — turni
 <img width="1397" height="659" alt="image" src="https://github.com/user-attachments/assets/af44d5b1-db47-4968-b5e5-c49d751aaf6b" />
 <img width="1397" height="659" alt="image" src="https://github.com/user-attachments/assets/3410b9a7-4c46-4a9f-9656-03cc522dde9d" />
 <img width="1397" height="659" alt="image" src="https://github.com/user-attachments/assets/4903e90e-46a4-4985-bc57-dfdb68d5edc4" />
-<img width="1397" height="659" alt="image" src="https://github.com/user-attachments/assets/8b3cc3dc-a9ea-4b48-9fbd-82e27665202b" />
+<img width="1397" height="659" alt="image" src="https://github.com/user-attachments/assets/55a1813c-08ff-4ef7-9181-f4b27b4f152f" />
 
 
 ## What it is
